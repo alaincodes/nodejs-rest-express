@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-rest-express",
+  "version": "1.0.0",
+  "description": "Node.js Rest API Using Express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alaincodes/nodejs-rest-express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alaincodes/nodejs-rest-express/issues"
+  },
+  "homepage": "https://github.com/alaincodes/nodejs-rest-express#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
